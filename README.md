@@ -15,7 +15,7 @@ This project explores the use of a **Multilayer Perceptron (MLP)** for classifyi
 🔗 **Run on Colab:**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z_qKQ3iwa7Gzs59P3HLrLoxs9qHRQE_a?usp=sharing)
 
-Также возможен запуск локально через JupyterLab.
+You can also run the project locally using JupyterLab.
 
 ---
 
