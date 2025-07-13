@@ -3,7 +3,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Bit-Maximum/MLP-for-MNIST/blob/main/README.md)
 [![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/Bit-Maximum/MLP-for-MNIST/blob/main/translation/README.ru.md)
 
-### 👤 Меркурьев Максим Андреевич
+### 👤 Меркурьев Максим Андреевич  
 🏫 *Дальневосточный федеральный университет, 2025*
 
 ---
